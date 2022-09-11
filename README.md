@@ -1,5 +1,5 @@
 # Pharmeasy-Clone
-pharmeasy-clone-rho.vercel.app
+https://pharmeasy-clone1.vercel.app/index.html
 
 # Inspired from PharmEasy.com
 
