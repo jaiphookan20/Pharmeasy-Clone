@@ -2,4 +2,4 @@ Created a clone of the website of Pharmeasy, an e-pharmacy technology business b
 
 Team mates involved in project: Jai Phookan Abbas Ghaliani Chandra Yadav Shubham Garg Basil Aslam Deep Raj Singh
 
-Netlify link for the project: https://mellifluous-semifreddo-180d23.netlify.app/
+Vercel link for the project: https://pharmeasy-clone1.vercel.app/addToCart/home.html
